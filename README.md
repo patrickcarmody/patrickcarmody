@@ -4,6 +4,7 @@ Hi 👋 I'm Patrick Carmody
 * 🌍  I'm based in Dublin, Ireland
 * ✉️  You can contact me at [pcarmody00@gmail.com](mailto:pcarmody00@gmail.com)
 * 🧠  I'm learning Web3 Development
+* 🏛️  Studying Creative Computing (BSc)
 * ⚡  Blockchain and Esports enthusiast
 
 ### Skills
